@@ -4,6 +4,8 @@
 //
 // Extra for Experts:
 // - describe what you did to take this project "above and beyond"
+
+
 // Declare global variables
 let isAlive = true; // allows the duck to be shot
 let up = 0; // To help make the wings flap
@@ -73,4 +75,5 @@ function draw() {
   // Write a conditional statement so that
   // if the duck is too high or too low (off canvas),
   // it respawns to the bottom center of the canvas
+  
 }
